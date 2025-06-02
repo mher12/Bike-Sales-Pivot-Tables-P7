@@ -7,7 +7,7 @@ This guided project follows Alex the Analyst’s Excel tutorials for data analys
 **Results:** Summarizing sales of bikes using pivot tables and charts
 **Quick View:**  
 
-<img src="https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png" width="150" height="100">
+<img src="https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png](https://github.com/mher12/Bike-Sales-Pivot-Tables-P7/blob/main/Screenshot%202025-06-02%20145613.png" width="150" height="100">
 
 **Additional Notes:**  
 This project is part of an Excel currriculum created by Alex the Analyst.  
