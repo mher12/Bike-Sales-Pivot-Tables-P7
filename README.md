@@ -1,7 +1,8 @@
 ### Bike Sales Pivot Tables P7
 
 **Description:**  
-This guided project follows Alex the Analyst’s Excel tutorials for data analysts. Using a dataset of European bike store sales, the project focuses on creating and customizing Pivot Tables. Key steps include selecting relevant data (such as country, state, and revenue) and organizing it to analyze metrics like revenue, cost, and profit by location. The project demonstrates how to sort data, adjust value settings, and calculate percentages—highlighting Pivot Tables as powerful tools for summarizing and presenting data clearly, especially for non-technical stakeholders. 
+This guided project follows Alex the Analyst’s Excel tutorials for data analysts. Using a dataset of European bike store sales, the project focuses on creating and customizing Pivot Tables. Key steps include selecting relevant data (such as country, state, and revenue) and organizing it to analyze metrics like revenue, cost, and profit by location. The project demonstrates how to sort data, adjust value settings, and calculate percentages—highlighting Pivot Tables as powerful tools for summarizing and presenting data clearly, especially for non-technical stakeholders.  
+
 **Skills:** Create pivot tables; format and customize pivot charts, addition of slicer and slicer relationship, creating a calculated field on pivot table
 **Technology:** Excel.  
 **Results:** Summarizing sales of bikes using pivot tables and charts  
