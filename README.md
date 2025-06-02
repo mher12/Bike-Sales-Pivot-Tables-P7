@@ -2,12 +2,9 @@
 
 **Description:**  
 This guided project follows Alex the Analyst’s Excel tutorials for data analysts. Using a dataset of European bike store sales, the project focuses on creating and customizing Pivot Tables. Key steps include selecting relevant data (such as country, state, and revenue) and organizing it to analyze metrics like revenue, cost, and profit by location. The project demonstrates how to sort data, adjust value settings, and calculate percentages—highlighting Pivot Tables as powerful tools for summarizing and presenting data clearly, especially for non-technical stakeholders.
-This was a guided project in which showcases my knowledge and ability of using the following methods within Excel:  
-Data cleaning via removing duplicates, enriching certain data for better understanding, statistical methods, utilizing and nesting "if" function, creating Pivot tables, creating dashboard, and adding Slicers. 
-This project involved working with a dataset containing slightly more than 1,000 records in a single table. The data reflected customer demographics pertinent to bike purchases, encompassing variables like marital status, gender, income, occupation, and region. The primary tasks were data cleanup, statistical analysis utilizing Excel pivot tables, and the subsequent creation of a dashboard within Excel to present these findings.  
-**Skills:** data cleaning, data analysis, descriptive statistics, pivot table, slicers  
+**Skills:** Create pivot tables; format and customize pivot charts, addition of slicer and slicer relationship, creating a calculated field on pivot table
 **Technology:** Excel.  
-**Results:** Review customer demographics and visualize purchases made based on gender, maritial status, and income
+**Results:** Summarizing sales of bikes using pivot tables and charts
 **Quick View:**  
 
 <img src="https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png" width="150" height="100">
